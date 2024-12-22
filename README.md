@@ -4,6 +4,7 @@
 - 📫 How to reach me: popfortress@outlook.com
 - 😄 Pronouns: Generating...
 - ⚡ Fun fact: Generating...
+- 📕 You may read my posts at https://popfortress.github.io/posts/
 
 <!---
 PopFortress/PopFortress is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
